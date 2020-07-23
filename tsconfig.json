@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["dom", "esnext"],
+    "outDir": "lib",
+    "declaration": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react"
+  },
+  "include": ["src"]
+}
+// https://www.tslang.cn/docs/handbook/compiler-options.html
